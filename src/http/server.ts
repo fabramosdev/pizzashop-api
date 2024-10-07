@@ -2,7 +2,11 @@ import { Elysia } from 'elysia'
 
 const app = new Elysia()
     .get('/', () => {
-        return {message: "Hello World"}
+        return {
+            name: "Fabiano Ramos",
+            age: 46,
+            mail: "fabiano.suporteinfo@gmail.com"
+        }
     })
 
 app.listen(3333, () => {
