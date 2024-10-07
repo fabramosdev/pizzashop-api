@@ -15,6 +15,20 @@
       "when": 1728278143435,
       "tag": "0001_pg",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1728312019938,
+      "tag": "0002_pg",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1728312143410,
+      "tag": "0003_pg",
+      "breakpoints": true
     }
   ]
 }
